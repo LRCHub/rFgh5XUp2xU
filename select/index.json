@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "出航 -departure-",
+  "base_artist": "緒方恵美",
+  "createdAt": "2026-03-14T14:08:15.562867Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "出航-departure-",
+      "artist": "緒方恵美",
+      "has_synced": false,
+      "path": "select/01_出航-departure-_緒方恵美.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "出航",
+      "artist": "STU48",
+      "has_synced": true,
+      "path": "select/02_出航_STU48.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "出航 -departure-",
+      "artist": "Megumi Ogata",
+      "has_synced": true,
+      "path": "select/03_出航_-departure-_Megumi_Ogata.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "出航",
+      "artist": "STU48",
+      "has_synced": false,
+      "path": "select/04_出航_STU48.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "出航 SASURAI",
+      "artist": "Akira Terao",
+      "has_synced": true,
+      "path": "select/05_出航_SASURAI_Akira_Terao.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "出航 SASURAI",
+      "artist": "寺尾聰",
+      "has_synced": false,
+      "path": "select/06_出航_SASURAI_寺尾聰.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "出航 SASURAI",
+      "artist": "Akira Terao",
+      "has_synced": true,
+      "path": "select/07_出航_SASURAI_Akira_Terao.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "出航 SASURAI",
+      "artist": "寺尾聰",
+      "has_synced": true,
+      "path": "select/08_出航_SASURAI_寺尾聰.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "出航 SASURAI",
+      "artist": "Terao Akira",
+      "has_synced": true,
+      "path": "select/09_出航_SASURAI_Terao_Akira.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "出航 SASURAI",
+      "artist": "寺尾 聰",
+      "has_synced": true,
+      "path": "select/10_出航_SASURAI_寺尾_聰.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "出航 -SASURAI-",
+      "artist": "寺尾聰",
+      "has_synced": false,
+      "path": "select/11_出航_-SASURAI-_寺尾聰.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "出航 -departure- (Short Version)",
+      "artist": "緒方 恵美",
+      "has_synced": false,
+      "path": "select/pl_01_出航_-departure-_(Short_Version)_緒方_恵美.txt"
+    }
+  ]
+}
